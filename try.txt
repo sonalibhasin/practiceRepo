@@ -2,6 +2,11 @@ hello
 
 this is a text file
 
+this is line in 2nd commit
+
 this is sample file to see the use of git hub
 
-sample hello world
+one line deleted and added new line
+
+
+
