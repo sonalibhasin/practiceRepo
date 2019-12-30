@@ -1,0 +1,7 @@
+hello
+
+this is a text file
+
+this is sample file to see the use of git hub
+
+sample hello world
